@@ -1,4 +1,4 @@
-// Inspired by The CodingTrain/Daniel Shiffman; Using Googles Teachable Machine 2.0;
+// Made by Sarthak Pandey and Kanishka Jain || Learnt Ml5.js from TheCodingTrain
 
 // Classifier Variable
 let classifier;
