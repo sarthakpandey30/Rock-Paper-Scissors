@@ -1,3 +1,8 @@
+# Authors
+* **Sarthak Pandey** - *Initial work* - [sarthakpandey30](https://github.com/sarthakpandey30)
+* **Kanishka Jain** - *Initial work* - [jkan2i](https://github.com/jkan2i)
+
+
 # Rock-Paper-Scissors
 
 The old game you used to play with everyone.
